@@ -1,3 +1,70 @@
+# E-Commerce Laravel Project
+
+A full-stack **Laravel eCommerce system** with an admin panel, user management, and product management.  
+This system allows users to browse products, add items to cart, place orders, and track orders.  
+The admin panel allows product, category, and order management.
+
+---
+
+## 🚀 Features
+
+### User Side
+- User registration & login
+- Product listing by category
+- Add to cart & update quantity
+- Checkout & order placement
+- Order history
+
+### Admin Panel
+- Admin authentication
+- Add / update / delete products
+- Manage categories
+- View customer orders
+- Order status management
+- Order status updates
+
+---
+
+## 🛠️ Technologies Used
+- Laravel (PHP Framework)
+- MySQL
+- HTML5 / CSS3
+- JavaScript
+- Bootstrap / Tailwind 
+
+---
+
+## 📸 Screenshots
+
+![Preview](laravel_ss/1.PNG)
+![Preview](laravel_ss/2.PNG)
+![Preview](laravel_ss/3.PNG)
+![Preview](laravel_ss/4.PNG)
+![Preview](laravel_ss/5.PNG)
+![Preview](laravel_ss/6.PNG)
+![Preview](laravel_ss/7.PNG)
+![Preview](laravel_ss/8.PNG)
+![Preview](laravel_ss/9.PNG)
+![Preview](laravel_ss/10.PNG)
+![Preview](laravel_ss/11.PNG)
+![Preview](laravel_ss/12.PNG)
+![Preview](laravel_ss/13.PNG)
+![Preview](laravel_ss/14.PNG)
+![Preview](laravel_ss/15.PNG)
+![Preview](laravel_ss/16.PNG)
+![Preview](laravel_ss/17.PNG)
+![Preview](laravel_ss/18.PNG)
+![Preview](laravel_ss/19.PNG)
+![Preview](laravel_ss/20.PNG)
+![Preview](laravel_ss/21.PNG)
+![Preview](laravel_ss/22.PNG)
+![Preview](laravel_ss/23.PNG)
+![Preview](laravel_ss/24.PNG)
+![Preview](laravel_ss/25.PNG)
+![Preview](laravel_ss/26.PNG)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
