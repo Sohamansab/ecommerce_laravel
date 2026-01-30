@@ -33,6 +33,16 @@ The admin panel allows product, category, and order management.
 - Bootstrap / Tailwind 
 
 ---
+💳 Payment Methods
+
+Our eCommerce system supports multiple payment options for user convenience:
+
+Stripe – Secure credit/debit card payments.
+
+PayPal – Pay easily using your PayPal account.
+
+COD (Cash on Delivery) – Pay at the time of delivery.
+
 
 ## 📸 Screenshots
 
